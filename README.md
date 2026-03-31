@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hemalatha Adimulamu</h1>
 <h3 align="center">Data Engineer | ETL Developer</h3>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemalathaadimulamu&label=Profile%20views&color=0e75b6&style=flat" alt="hemalathaadimulamu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemalathaadimulamu" alt="hemalathaadimulamu" /></a> </p>
 
@@ -58,3 +58,6 @@
 
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemalathaadimulamu&show_icons=true&locale=en&layout=compact" alt="hemalathaadimulamu" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemalathaadimulamu&show_icons=true&locale=en" alt="hemalathaadimulamu" /></p>
